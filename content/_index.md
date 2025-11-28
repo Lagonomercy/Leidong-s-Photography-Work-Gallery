@@ -1,3 +1,3 @@
-- [Oxnard – Coastal Streets](/Oxnard/)
-- [DTLA – Urban Motion](/DTLA/)
-- [Irvine – Suburban Stillness](/Irvine/)
+- [Oxnard – Coastal Streets](/oxnard/)
+- [DTLA – Urban Motion](/dtla/)
+- [Irvine – Suburban Stillness](/irvine/)
