@@ -1,6 +1,7 @@
 ---
 title: "DTLA – Urban Motion"
 date: 2025-11-28
+slug: "dtla"
 ---
 
 Photographed in Downtown Los Angeles, this series highlights motion, contrast, and the density of city life.  

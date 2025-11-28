@@ -1,7 +1,9 @@
 ---
 title: "Irvine – Suburban Stillness"
 date: 2025-11-28
+slug: "irvine"
 ---
+
 
 Shot in Irvine, this series focuses on clean lines, controlled spaces, and calm suburban structure.  
 The images capture the organized, quiet, and minimalistic atmosphere that defines Irvine.

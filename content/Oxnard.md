@@ -1,6 +1,7 @@
 ---
 title: "Oxnard – Coastal Streets"
 date: 2025-11-28
+slug: "oxnard"
 ---
 
 This series was photographed in Oxnard, capturing the quiet rhythm of a coastal city.  
