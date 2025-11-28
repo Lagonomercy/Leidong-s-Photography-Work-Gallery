@@ -4,7 +4,7 @@ date: 2025-11-28
 ---
 
 This series was photographed in Oxnard, capturing the quiet rhythm of a coastal city.  
-From calm residential streets to open spaces near the shore, these images focus on atmosphere, light, and the sense of space unique to Oxnard.
+From calm residential streets to open spaces near the shore, these images focus on atmosphere, light, and the sense of space unique to Oxnard
 
 ![Oxnard photo 1](/images/Oxnard/2-IMG_3388.jpg)
 ![Oxnard photo 2](/images/Oxnard/3-IMG_3403.jpg)
